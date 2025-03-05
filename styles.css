@@ -53,3 +53,7 @@ button {
   font-size: 30px;
   cursor: pointer;
 }
+
+.change-title {
+  background: rgb(133, 36, 36);
+}
